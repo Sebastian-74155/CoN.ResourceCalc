@@ -9,5 +9,8 @@ It can be used for the game speed of 1x, 4x and 10x.
 <p>Step 2: Input your resource at the current time</p>
 <p>Step 3: Input the production per hour for that resource</p>
 <p>Step 4: Input how many hours you wish to wait</p>
-<p>The output will display the target timestamp (H:MM) as well as the resources at the said time. If the game speed is set at 4x, it will print how much in-game hours will pass additionally.</p>
+
+![image](https://github.com/user-attachments/assets/7384d5fe-272d-4785-afa0-77ecbc5d94da)
+
+<p>The output will display the target timestamp (H:MM) as well as the resources at the said time. If the game speed is set at 4x or 10x, it will print how much in-game hours will pass additionally.</p>
 <p>You can retry calculating with a different game speed.</p>
