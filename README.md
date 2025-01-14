@@ -1,4 +1,4 @@
-<h1>Resource calculator for Conflict of Nations</h1>
+<h1>Resources calculator for Conflict of Nations</h1>
 The program is created to calculate the amount of resources of any type accumulated after a specific amount of time in hours.
 It can be used for the game speed of 1x, 4x and 10x.
 
